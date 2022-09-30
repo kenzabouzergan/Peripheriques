@@ -388,6 +388,11 @@
               <FileType>1</FileType>
               <FilePath>.\Source\Principal.c</FilePath>
             </File>
+            <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Source\main.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -794,6 +799,11 @@
               <FileName>Principal.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Source\Principal.c</FilePath>
+            </File>
+            <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Source\main.c</FilePath>
             </File>
           </Files>
         </Group>
